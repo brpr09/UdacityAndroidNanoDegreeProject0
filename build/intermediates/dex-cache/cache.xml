@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/User_1_Benjamin_Rosenthal/Desktop/UdacityAndroidNanoDegree/UdaProject0/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b02791c78db3d5402868b19325d80f5799093487">
+        <dex dex="/Users/User_1_Benjamin_Rosenthal/Desktop/UdacityAndroidNanoDegree/UdaProject0/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_448f16d7c37f9b726323a2d2211d1c007da3056d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/User_1_Benjamin_Rosenthal/Desktop/UdacityAndroidNanoDegree/UdaProject0/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d4ab8678882571a0a6f19c47a826ecbce5b4f42b">
+        <dex dex="/Users/User_1_Benjamin_Rosenthal/Desktop/UdacityAndroidNanoDegree/UdaProject0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton-butterknife-8.1.0_4e606ffb195d4dad3ec5b59fececbaefbc35d533/classes.dex" />
+    </item>
+    <item
+        jar="/Users/User_1_Benjamin_Rosenthal/Desktop/UdacityAndroidNanoDegree/UdaProject0/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="/Users/User_1_Benjamin_Rosenthal/Desktop/UdacityAndroidNanoDegree/UdaProject0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.2.1_a9a8a566203de7a65d50a9b29f9714fcb3be4fb7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/User_1_Benjamin_Rosenthal/Desktop/UdacityAndroidNanoDegree/UdaProject0/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="cb86970df0f0f25f766d320b279c7858c1ca0003">
+        <dex dex="/Users/User_1_Benjamin_Rosenthal/Desktop/UdacityAndroidNanoDegree/UdaProject0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.2.1_26aa86fbd918146a61d0d2fe83a2ef1fcda28e12/classes.dex" />
+    </item>
+    <item
+        jar="/Users/User_1_Benjamin_Rosenthal/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.1.0/d6854f42bfb4098d3d2358d93201307b9f1cc95d/butterknife-annotations-8.1.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d6854f42bfb4098d3d2358d93201307b9f1cc95d">
+        <dex dex="/Users/User_1_Benjamin_Rosenthal/Desktop/UdacityAndroidNanoDegree/UdaProject0/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-annotations-8.1.0_5506b0b5e48e464480fc6fceedbc8a69da1c7db7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/User_1_Benjamin_Rosenthal/Desktop/UdacityAndroidNanoDegree/UdaProject0/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/Users/User_1_Benjamin_Rosenthal/Desktop/UdacityAndroidNanoDegree/UdaProject0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.2.1_3cc6d55b5f01dc229bcccff164b5b187c6019758/classes.dex" />
+    </item>
+    <item
+        jar="/Users/User_1_Benjamin_Rosenthal/Desktop/UdacityAndroidNanoDegree/UdaProject0/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/Users/User_1_Benjamin_Rosenthal/Desktop/UdacityAndroidNanoDegree/UdaProject0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.2.1_763d5f09bbd8fa6537920ff6a46318c5be5050a5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/User_1_Benjamin_Rosenthal/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/User_1_Benjamin_Rosenthal/Desktop/UdacityAndroidNanoDegree/UdaProject0/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_47fe5951af6b2c08f48ece59859fd3b39a2b3289/classes.dex" />
+    </item>
+    <item
+        jar="/Users/User_1_Benjamin_Rosenthal/Desktop/UdacityAndroidNanoDegree/UdaProject0/app/build/intermediates/exploded-aar/com.android.support/design/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="/Users/User_1_Benjamin_Rosenthal/Desktop/UdacityAndroidNanoDegree/UdaProject0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.2.1_82720abc16ba5a083ebe76b4519ffb9f712e3388/classes.dex" />
+    </item>
+    <item
+        jar="/Users/User_1_Benjamin_Rosenthal/Desktop/UdacityAndroidNanoDegree/UdaProject0/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/Users/User_1_Benjamin_Rosenthal/Desktop/UdacityAndroidNanoDegree/UdaProject0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.2.1_dbd89c1654c1557a2d929b01adb5a2f8e3a72e7b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/User_1_Benjamin_Rosenthal/Desktop/UdacityAndroidNanoDegree/UdaProject0/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/Users/User_1_Benjamin_Rosenthal/Desktop/UdacityAndroidNanoDegree/UdaProject0/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.2.1_4863911a13c627850180d4ecfd918c31116cfd4d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/User_1_Benjamin_Rosenthal/Desktop/UdacityAndroidNanoDegree/UdaProject0/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0c093b84bea77b18e9a2db6e14a0540835e0a254">
+        <dex dex="/Users/User_1_Benjamin_Rosenthal/Desktop/UdacityAndroidNanoDegree/UdaProject0/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_208a73528dbb6ae7a2c003de84560c642faaf1c3/classes.dex" />
+    </item>
+    <item
+        jar="/Users/User_1_Benjamin_Rosenthal/Desktop/UdacityAndroidNanoDegree/UdaProject0/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/Users/User_1_Benjamin_Rosenthal/Desktop/UdacityAndroidNanoDegree/UdaProject0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.2.1_88f92a22a23943c00d9a57fabc45e0a1f05efc3f/classes.dex" />
+    </item>
+
+</items>
